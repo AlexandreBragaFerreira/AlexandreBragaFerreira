@@ -20,7 +20,7 @@
 ### 🌎 Onde me encontrar
 
 <div> 
-  <a href="https://instagram.com/rafaballerini" target="_blank">
+  <a href="https://www.instagram.com/alxbraga_/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
   <a href="https://discord.com" target="_blank">
